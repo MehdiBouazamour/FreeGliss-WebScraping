@@ -1,0 +1,3 @@
+# FreeGliss-WebScraping
+
+scraper toutes les informations possibles concernant les produits "Skis" dur site internet FreeGliss. Ensuite, faire une visualiation sur PowerBi des résultats pour avoir une vue d'ensemble des produits proposés, les marques, les prix, etc...
